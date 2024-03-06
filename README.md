@@ -4,7 +4,8 @@
 
 
 ![Pedro Github Stats](https://github-readme-stats.vercel.app/api?username=malvertis1ng&show_icons=true&theme=dracula&count_private=true)
-![Pedro Techs Stats] (https://github-readme-stats.vercel.app/api/top-langs/?username=malvertis1ng&theme=blue-green)
+
+![Pedro Techs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=malvertis1ng&show_icon=true&theme=blue-green&account_private=true)
 
 ## Techs
 
