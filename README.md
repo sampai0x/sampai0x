@@ -3,7 +3,7 @@
 
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=malvertis1ng&show_icons=true&theme=dracula&count_private=true)
+![Pedro Github Stats](https://github-readme-stats.vercel.app/api?username=malvertis1ng&show_icons=true&theme=dracula&count_private=true)
 
 ## Techs
 
