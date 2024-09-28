@@ -6,9 +6,9 @@
 
 <p>Estudante de Sistemas de Informação<br/>Software Developer and Security Researcher</p>
 
-![Pedro Github Stats](https://github-readme-stats.vercel.app/api?username=malvertis1ng&show_icons=true&theme=dracula&count_private=true)
+![Pedro Github Stats](https://github-readme-stats.vercel.app/api?username=sampai0x&show_icons=true&theme=dracula&count_private=true)
 
-![Pedro Techs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=malvertis1ng&show_icon=true&theme=blue-green&account_private=true)
+![Pedro Techs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sampai0x&show_icon=true&theme=blue-green&account_private=true)
 
 ## Techs
 
