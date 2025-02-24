@@ -20,5 +20,4 @@
 
 <div style="display: inline; text-align: center; ">
   <img src="https://github-readme-stats.vercel.app/api?username=sampai0x&hide=contribs,prs&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampai0x&layout=compact&theme=dark"/>
 </div>
