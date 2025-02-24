@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampai0)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pe.sampaio_) 
-[![Instagram](https://img.shields.io/badge/Beecrowd)](https://judge.beecrowd.com/pt/profile/813025) 
+[![Beecrowd](https://img.shields.io/badge/Beecrowd)](https://judge.beecrowd.com/pt/profile/813025) 
 
 
 ## Techs
