@@ -1,11 +1,5 @@
-## Seja bem vindo ao meu github! 🖐️
-## Welcome to my github! 🖐️
-
 *\> Information Systems student at [FHO | Uniararas - Brazil](https://www.fho.edu.br)*
 <p>FullStack Developer</p>
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=Pedro&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampai0)
