@@ -1,6 +1,8 @@
 ## Seja bem vindo ao meu github! 🖐️
 ## Welcome to my github! 🖐️
 
+*\> Information Systems student at [FHO | Uniararas - Brazil](https://www.fho.edu.br)*
+
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Pedro&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
