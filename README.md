@@ -1,6 +1,15 @@
 *\> Information Systems student at [FHO | Uniararas - Brazil](https://www.fho.edu.br)*
 <p>FullStack Developer</p>
 
+```c#
+ public Dev()
+        {
+            Name = "Pedro Sampaio";
+            Languages = new List<string> { "pt_BR", "en_US" };
+            Code = new List<string> { "C", "Python", "HTML", "CSS", "JavaScript", "Java", "C#", "SQL" };
+            Frameworks = new List<string> { "Bootstrap", ".NET", "Laravel", "Node.JS", "AWS", "Oracle" };
+        }
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampai0)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pe.sampaio_) 
