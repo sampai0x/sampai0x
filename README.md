@@ -3,12 +3,9 @@
 
 *\> Information Systems student at [FHO | Uniararas - Brazil](https://www.fho.edu.br)*
 
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=Pedro&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudante de Sistemas de Informação<br/>FullStack Developer</p>
-
-![Pedro Github Stats](https://github-readme-stats.vercel.app/api?username=sampai0x&show_icons=true&theme=dracula&count_private=true)
+<p>FullStack Developer</p>
 
 ![Pedro Techs Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sampai0x&show_icon=true&theme=blue-green&account_private=true)
 
@@ -23,6 +20,8 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+
 </div><br/>
 
 ## Aprendendo
