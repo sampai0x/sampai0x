@@ -6,7 +6,7 @@
         {
             Name = "Pedro Sampaio";
             Languages = new List<string> { "pt_BR", "en_US" };
-            Code = new List<string> { "C", "Python", "HTML", "CSS", "JavaScript", "Java", "C#", "SQL", "PHP"};
+            Code = new List<string> { "C", "Python", "HTML", "CSS", "JavaScript", "Java", "C#", "SQL", "PHP" };
             Frameworks = new List<string> { "Bootstrap", "Laravel", "Node.JS", "React", "Oracle" };
             New = new List<string> {"Typescript", "AWS", ".NET"}
             SO = new List<string> {"Windows", "Ubuntu", "Arch Linux"};
