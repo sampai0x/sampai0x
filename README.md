@@ -1,5 +1,7 @@
 *\> Information Systems student at [FHO | Uniararas - Brazil](https://www.fho.edu.br)*
 <p>FullStack Developer</p>
+<p>Top 200 Beecrowd General Ranking</p>
+<p>Top 3 Beecrowd College Ranking</p>
 
 ```c#
  public Dev()
